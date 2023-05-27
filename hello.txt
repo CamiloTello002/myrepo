@@ -3,11 +3,3 @@ esa es una respuesta para usted?
 no, pero es mi respuesta
 
 ah, pero sí que eres un poco chistosito, ¿no?
-
-
-#include<iostream>
-
-int main(){
-	std::cout << "Hola a todos jaja";
-	return 0;
-}
